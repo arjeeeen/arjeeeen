@@ -30,6 +30,8 @@ Currently I have fun creating small scripts and webapps, looking for vulnerabili
 
 
 > 💬 For any question, collaboration or info contact me!
+
 > 📫 How to reach me: nejranav
+
 > ⚡ Fun fact: I left high paying jobs to follow my passion
 
