@@ -31,7 +31,7 @@ Currently I have fun creating small scripts and webapps, looking for vulnerabili
 ### Info 
 > 💬 For any question, collaboration or info contact me!
 
-> 📫 How to reach me:  ![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
+> 📫 How to reach me:  <img src="{./linkedin.svg}" />
 
 > ⚡ Fun fact: I left high paying jobs to follow my passion
 
