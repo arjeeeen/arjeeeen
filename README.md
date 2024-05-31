@@ -7,15 +7,30 @@ I have completed various courses, the most important being the one carried out w
 
 Currently I have fun creating small scripts and webapps, looking for vulnerabilities and studying existing ones. I love bugs.
 
-require "scientist" ##Skills
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
++ Python, C++
++ HTML, CSS, PHP
++ Sql Server, MySql, Postgres
++ Cms (Wordpress, Joomla, Prestashop)
++ Wireshark, TShark, TcpDump, Ettercap, ColaSoft
++ Nessus, Cloudfare
++ Virtual Machines (VirtualBox, VMware, Parallels)
++ Snort, Suricata, Security Onion
++ Burp Suite, Hydra, John The Ripper, Metasploit, Nmap, Maltego
++ DirBuster, dir, Gobuster, WFuzz
++ WPScan, Nikto, SqlMap
+
+
+## 📟 Operating systems
++ Linux (Kali Linux, Debian, Ubuntu, Lubuntu, Fedora ec..)
++ Windows
++ Mac OS
+
+
+
+- 💬 For any question, collaboration or info contact me!
+- 📫 How to reach me: nejranav
+
+- ⚡ Fun fact: I left high paying jobs to follow my passion
 
