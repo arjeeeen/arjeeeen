@@ -31,7 +31,11 @@ Currently I have fun creating small scripts and webapps, looking for vulnerabili
 ### Info 
 > 💬 For any question, collaboration or info contact me!
 
-> 📫 How to reach me: [![Share on LinkedIn](https://img.shields.io/badge/-Share%20on%20LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/feed/?shareActive=true&text=Arjen%20Van%20Zwam)
+> 📫 How to reach me:  
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
 
 > ⚡ Fun fact: I left high paying jobs to follow my passion
 
