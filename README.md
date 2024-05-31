@@ -1,10 +1,13 @@
 ![Header](./github-header-image.png)
 
-## Hi there 👋
+## Welcome to my GitHub 👋
+I'm super passionate about technology, especially information technology, if you really want to know about Cybersecurity.
 
-<!--
-**arjeeeen/arjeeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have completed various courses, the most important being the one carried out with EPICODE which was able to issue me targeted certificates in the sector.
 
+Currently I have fun creating small scripts and webapps, looking for vulnerabilities and studying existing ones. I love bugs.
+
+require "scientist" ##Skills
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
