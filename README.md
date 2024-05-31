@@ -31,7 +31,7 @@ Currently I have fun creating small scripts and webapps, looking for vulnerabili
 ### Info 
 > 💬 For any question, collaboration or info contact me!
 
-> 📫 How to reach me:  ![example workflow](https://github.com/arjeeeen/arjeeeen/blob/main/linkedin.svg)
+> 📫 How to reach me:  ![example workflow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 > ⚡ Fun fact: I left high paying jobs to follow my passion
 
