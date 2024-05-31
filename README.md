@@ -20,6 +20,7 @@ Currently I have fun creating small scripts and webapps, looking for vulnerabili
 + Burp Suite, Hydra, John The Ripper, Metasploit, Nmap, Maltego
 + DirBuster, dir, Gobuster, WFuzz
 + WPScan, Nikto, SqlMap
++ Aircrack-ng, Fluxion, Airgeddon, Evil Twin attack
 
 
 ## 📟 Operating systems
@@ -27,10 +28,8 @@ Currently I have fun creating small scripts and webapps, looking for vulnerabili
 + Windows
 + Mac OS
 
-
-
-- 💬 For any question, collaboration or info contact me!
-- 📫 How to reach me: nejranav
-
-- ⚡ Fun fact: I left high paying jobs to follow my passion
+> [!NOTE]
+> 💬 For any question, collaboration or info contact me!
+> 📫 How to reach me: nejranav
+> ⚡ Fun fact: I left high paying jobs to follow my passion
 
